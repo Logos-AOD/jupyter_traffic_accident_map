@@ -34,7 +34,7 @@
 
 **Инструменты:**
 
-![Jupyter]
+![Jupyter Notebook]
 
 ---
 
